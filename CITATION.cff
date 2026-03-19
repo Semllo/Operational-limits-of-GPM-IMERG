@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Paper 6 Reproducibility Package: AVAMET-IMERG Multiscale Experiment"
+version: "v1.0.0"
+date-released: 2026-03-19
+type: software
+authors:
+  - family-names: "Team"
+    given-names: "AVAMET-IMERG"
+license: "MIT"
+keywords:
+  - "IMERG"
+  - "AVAMET"
+  - "precipitation extremes"
+  - "Mediterranean rainfall"
+  - "verification"
