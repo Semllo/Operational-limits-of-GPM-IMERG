@@ -1,4 +1,4 @@
-# Paper 6 Reproducibility Package
+# Reproducibility Package
 
 Minimal, standalone repository to reproduce the main `paper_6` AVAMET-IMERG experiment and manuscript figures.
 
