@@ -14,15 +14,6 @@ This repository keeps only the scripts needed for the principal pipeline:
 
 It intentionally excludes exploratory, sensitivity, and supplementary scripts that are not required for the core rerun.
 
-## Data Access
-
-The input datasets are not redistributed in this repository.
-
-- `data/avamet_all.parquet` or `data/avamet_all_2019_2025_0930.parquet` is expected as the AVAMET input parquet.
-- `data/imerg/` should contain raw GPM IMERG Final V07 half-hourly HDF5 files.
-- `data/imerg_cv/` is a derived subset written by the extraction step and is also ignored by git.
-
-If you already have the extracted IMERG subset, you can skip the extraction step with `--skip-extraction`.
 
 ## Expected Layout
 
